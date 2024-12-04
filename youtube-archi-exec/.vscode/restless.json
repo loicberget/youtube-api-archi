@@ -1,0 +1,17 @@
+[
+  {
+    "contextValue": "call",
+    "identifier": "evaluate_channel8B3289",
+    "label": "evaluate_channel",
+    "url": "http://localhost:5000/evaluate_channel/EnderSkull",
+    "method": "GET",
+    "auth": "",
+    "headers": [
+      {
+        "header": "Content-Type",
+        "value": "application/json"
+      }
+    ],
+    "body": ""
+  }
+]
